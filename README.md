@@ -13,10 +13,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
 
-## ⚠️ Vulnerability Management Projects
+## ⚠️ Implementing Disa STIGS Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/dtorrz/Vulnerability-Management-Program/)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+//- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
 <hr/>
 
